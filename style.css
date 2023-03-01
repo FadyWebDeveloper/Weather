@@ -1,0 +1,9 @@
+.cap-parent img {
+  width: 50%;
+}
+body{
+  background-image: url(./1000_F_211524227_Ett8aboQvVnROAFtqu3S1pW99Y3Th9vm.jpg);
+background-size: cover;
+background-repeat: none;
+background-position: center;
+}
